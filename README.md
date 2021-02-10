@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Robotry 
 - 🌱 I’m currently learning SMT 
 - 📫 How to reach me: no you cant 
-- 😄 Pronouns: 단호희중 
 
 ![Profile views](https://gpvc.arturio.dev/AnnaJinK) 
 
